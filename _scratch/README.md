@@ -13,6 +13,7 @@ Open the appropriate file, make your edits, and then export using `File > Export
 * **Suffix:** None
 * **Export to:** the appropriate folder (`lines.ai` goes to `lines/assets/`, etc)
 * **Background Color:** Transparent (you'll need to click the little gear to find this option)
+* **Prefix:** `ai-` (down at the bottom of the screen)
 
 ## Adding a new image
 

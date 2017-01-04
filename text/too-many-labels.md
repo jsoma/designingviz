@@ -4,7 +4,13 @@ If you have a lot of data points and every single one of them is labeled, **get 
 
 The point of a visualization is you're **presenting a curated view of the data underneath**. If someone really wants to note every single datapoint, point them towards a spreadsheet.
 
-Another good solution might be **interactivity**. It *can* be a crutch, but if you want people to be able to explore each and every data point, *make them click or hover*.
+Another good solution might be **interactivity**. It can be a crutch, but if you want people to be able to explore each and every data point, you can make them click or hover.
+
+## Example
+  
+![](assets/teacher-pay-1.png)
+
+[This Vice piece](https://news.vice.com/story/american-educators-teach-longer-for-less-pay-than-their-foreign-peers) has a lot of dots but only labels the important ones (outliers + averages + a few others).
 
 ## Example
 
