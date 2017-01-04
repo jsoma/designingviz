@@ -2,15 +2,19 @@
 
 If you have a lot of data points and every single one of them is labeled, **get rid of some of those labels!** They aren't all important, I promise.
 
+![](assets/ai-too-many-labels.png)
+
 The point of a visualization is you're **presenting a curated view of the data underneath**. If someone really wants to note every single datapoint, point them towards a spreadsheet.
+
+## Other options
 
 Another good solution might be **interactivity**. It can be a crutch, but if you want people to be able to explore each and every data point, you can make them click or hover.
 
-## Example
+## In the wild
   
-![](assets/teacher-pay-1.png)
+[This Vice piece](https://news.vice.com/story/american-educators-teach-longer-for-less-pay-than-their-foreign-peers) has a lot of dots but **only labels the important ones** (outliers + averages + a few others).
 
-[This Vice piece](https://news.vice.com/story/american-educators-teach-longer-for-less-pay-than-their-foreign-peers) has a lot of dots but only labels the important ones (outliers + averages + a few others).
+![](assets/teacher-pay-1.png)
 
 ## Example
 
