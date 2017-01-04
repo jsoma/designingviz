@@ -12,7 +12,7 @@ Another good solution might be **interactivity**. It can be a crutch, but if you
 
 ## In the wild
   
-[This Vice piece](https://news.vice.com/story/american-educators-teach-longer-for-less-pay-than-their-foreign-peers) has a lot of dots but **only labels the important ones** (outliers + averages + a few others).
+[This Vice piece](https://news.vice.com/story/american-educators-teach-longer-for-less-pay-than-their-foreign-peers) by [Spe Chen](http://spepechen.github.io/) has a lot of dots but **only labels the important ones** (outliers + averages + a few others).
 
 ![](assets/teacher-pay-1.png)
 
