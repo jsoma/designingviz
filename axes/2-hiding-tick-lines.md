@@ -4,8 +4,22 @@ If you're using full-width grid/tick lines, you need to make them **much less ob
 
 The rule boils down to **don't make them black lines**.
 
+![](assets/ai-dark-axes.png)
+
 If your background is white(-ish), you should **make the lines grey**.
 
-You could also make the lines light grey **and dotted**. Dotted usually looks better than dashed, but there are certainly times when dashed looks good, too.
+![](assets/ai-axes-grey.png)
 
-If your chart's background is grey, you can make your grid lines **white** so they're kind of using negative space - or **a slightly darker grey** because obviously everything ever should be grey.
+You could also make the lines light grey and **dotted or dashed**.
+
+![](assets/ai-axes-dotted.png)
+
+## Negative space grid
+
+You can also make your **graph background grey**, and make your grid lines **white** so they're kind of using negative space - or **a slightly darker grey** because obviously everything ever should be grey.
+
+![](assets/ai-axes-grey-bg.png)
+
+You can still dot them if you'd like!
+
+![](assets/ai-axes-grey-bg-dotted.png)
