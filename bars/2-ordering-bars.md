@@ -1,4 +1,4 @@
-# Order bars by length
+# Ordering bars
 
 You should **always order your bars and columns.**
 
