@@ -1,16 +1,16 @@
 # Make unimportant things grey
 
-Grey is a very useful color for things that aren't very important. Use grey to color elements...
+Grey is a very useful color for things that aren't very important. Use grey to color elements that...
 
-* that are unselected or backgrounded
-* elements that provide context to an important data point
-* that are not the currently selected element
+* are unselected or backgrounded
+* provide context to an important data point
+* are not the currently selected element
 
-In fact, let's just make **grey the default color**. everything should be grey unless you'd feel comfortable shouting that data point out at a stranger.
+In fact, let's just make **grey the default color**. Everything should be grey! Unless of course you'd feel comfortable shouting that data point out at a stranger.
 
 ![](assets/ai-grey-plus-highlight.png)
 
-I say err on the side of making your grey lighter rather than darker.
+I say err on the side of making your greys lighter rather than darker.
 
 ## Example
 
