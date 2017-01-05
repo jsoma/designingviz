@@ -1,6 +1,6 @@
 # Citing sources
 
-Since your graphic might be separated from your written piece, it's a good idea to **cite your data source(s) on the graphic itself**. The **bottom left-hand corner** is the traditional place for this, in a nice small font.
+Since your graphic might be separated from your written piece, it's a good idea to **cite your data source(s) on the graphic itself**. The bottom left-hand corner is the traditional place for this, in a nice small font.
 
 ![](assets/ai-source-and-credit.png)
 
