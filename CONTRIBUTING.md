@@ -4,7 +4,7 @@ I sure don't know everything. You might, though, so let's do this!
 
 ## Providing ideas
 
-Click 'Issues' up at the top of the page and add a new issue describing what you'd like added. Someone will hopefully hop onto it!
+Click [Issues](https://github.com/jsoma/designingviz/issues) up at the top of the page and add a new issue describing what you'd like to see added. Someone will hopefully hop onto it!
 
 ## Providing content
 
@@ -14,7 +14,7 @@ If you'd like a technical overview of how to contribute to a project on GitHub, 
 
 Pages are written as [markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) files, which is just annotated text. A good editor for OS X is [MacDown](http://macdown.uranusjr.com/).
 
-A file will look something like this:
+A simple file that has an image and a secondary section will look something like this:
 
     # This is the page title
 
@@ -42,12 +42,14 @@ Save your page in a folder named after the topic. For example, is it about legen
 
 **Note:** All of the files in `legends/` will be compacted together and turned into a single file about legends.
 
+If you make a pull request, **explain in depth any changes you made.** If I have to manually merge the new file with the old one it'll help a lot.
+
 ### Creating images
 
 You can use the Adobe Illustrator files inside of the `_scratch` folder if you'd like. There's a `README` with more details [right in there](_scratch).
 
 Some images are created automatically from the Illustrator files; they all have `ai-` in the beginning of their filename. If you add a file manually, **don't prefix it with `ai-`**.
 
-## Being totally angry at my design proposals, because they are the dumbest thing you've ever seen in your entire life and you've been around for a LONG time
+## You are totally angry at my design proposals, because they are the dumbest thing you've ever seen in your entire life and you've been around for a LONG time
 
 See "Providing ideas" up above.
