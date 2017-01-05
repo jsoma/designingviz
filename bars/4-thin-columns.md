@@ -1,7 +1,7 @@
 # Thinning out columns
 
-Wide bars and columns look clunky - **keep your bars thin** for a simpler, more elegant look.
+Wide bars and columns look clunky - **keep your bars thin** for a simpler, more elegant look. Too thin, though, and it's tough to compare the bars to ocme another.
 
 ![](assets/ai-thin-columns.png)
 
-Don't take this as the gospel truth, though, as the right width often has to do with spacing and general graph setup.
+The right width often has to do with spacing and general graph setup. Also, it's usually easy to have thin **bars** as opposed to thin **columns**.

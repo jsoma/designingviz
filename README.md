@@ -12,7 +12,7 @@ In case you haven't noticed, it's a work in progress.
 
 ## Focus
 
-The focus for the time being is **practical applied design**, not so much how to pick the right chart or theory etc etc etc. [The Wall Street Journal Guide to Information Graphics](http://amzn.to/2ihAyF5) is immeasurably perfect for the data-y parts of things. [The Visual Display of Quantitative Information](http://amzn.to/2hS0zOj) is stellar if you'd like something a little more in the theoretical realm.
+The focus for the time being is **practical applied design**, not so much how to pick the right chart or theory etc etc etc. Think [The Wall Street Journal Guide to Information Graphics](http://amzn.to/2ihAyF5), not [The Visual Display of Quantitative Information](http://amzn.to/2hS0zOj).
 
 ## Contributing
 
