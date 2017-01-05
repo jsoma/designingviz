@@ -1,14 +1,3 @@
-# App work
-
-* Highlight examples somehow (well, etc?)
-* Fix up scratch files to have named artboards and export easily
-* T R A N S P A R E N T B A C K G R O U N D S
-* Visually separate out the examples section
-  - but really they aren't examples, they're just... more words.
-* Everything gets a before and an after to see how it works that is NOT an example?
-* front page
-* split into a repo for pushing up/backend and a repo for content
-
 # Content
 
 * everything needs images
@@ -47,6 +36,7 @@
   - all-the-way-across axes
   - dashed axes
   - axes without things on the side
+  - major vs minor axes
 * labeling
   - units
   - overlap

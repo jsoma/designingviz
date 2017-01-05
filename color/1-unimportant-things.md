@@ -10,7 +10,7 @@ In fact, let's just make **grey the default color**. everything should be grey u
 
 ![](assets/ai-grey-plus-highlight.png)
 
-If you're using hex, `#e1e1e1` and `#f3f3f3` are two nice light greys that I'm personally fond of.
+I say err on the side of making your grey lighter rather than darker.
 
 ## Example
 
