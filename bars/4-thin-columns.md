@@ -1,6 +1,6 @@
 # Thinning out columns
 
-Wide bars and columns look clunky - **keep your bars thin** for a simpler, more elegant look. Too thin, though, and it's tough to compare the bars to ocme another.
+Wide bars and columns look clunky - **keep your bars thin** for a simpler, more elegant look. Too thin, though, and it's tough to compare the bars to one another.
 
 ![](assets/ai-thin-columns.png)
 

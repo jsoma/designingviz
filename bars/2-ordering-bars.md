@@ -10,7 +10,7 @@ We start with a series of countries, all with some sort of values.
 
 ![](assets/ai-horizontal-labels.png)
 
-Then we'll go ahead and order them **by bar size, not alphabeticall**.
+Then we'll go ahead and order them **by bar size, not alphabetically**.
 
 Some people might want to put things in alphabetical order, but if you're really interested in Bolivia you're probably more interested in *how it stands relative to everyone else*, not just *what the actual number is*.
 
