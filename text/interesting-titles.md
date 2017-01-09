@@ -8,6 +8,8 @@ Your title should usually be **what you want the person to take away from the gr
 
 If you need to explain what the data is, you can use a subtitle.
 
+**Note:** You don't need an interesting title if your graphic is very very secondary to the text and doesn't need to draw the eye.
+
 ## Example
 
 If you're visualizing [how expensive Christmas dinner is](http://www.bbc.com/news/uk-england-38051644) you might make a graph of the cost of Christmas dinner each year.
