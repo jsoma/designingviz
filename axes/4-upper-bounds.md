@@ -1,4 +1,4 @@
-# Upper bound: Maximum range vs maximum possible value
+# Selecting an upper bound
 
 One of the aspects of your story that's reflected in your axis bounds is **whether the values on the graph are only relative to one another, or are the value also relative to a maximum?**
 

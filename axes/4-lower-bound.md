@@ -1,4 +1,4 @@
-# Lower bound: Just use zero
+# Selecting a lower bound
 
 If the lower bound of your axis can be a zero, you should probably make it a zero. 
 
